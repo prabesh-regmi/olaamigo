@@ -1,0 +1,3 @@
+:HL["https://prabesh-regmi.github.io/olaamigo/_next/static/chunks/842a266dc51f38ae.css","style"]
+:HL["https://prabesh-regmi.github.io/olaamigo/_next/static/chunks/e61fbe6a12573bed.css","style"]
+0:{"buildId":"_8fGUVfmvc4w_4gnPptx3","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"/_not-found","paramType":null,"paramKey":"/_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
