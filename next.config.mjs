@@ -1,12 +1,14 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
+  output: "export",
   typescript: {
     ignoreBuildErrors: true,
   },
   images: {
     unoptimized: true,
   },
-}
+  basePath: "/olaamigo",
+  assetPrefix: "/olaamigo/",
+};
 
-export default nextConfig
+export default nextConfig;
